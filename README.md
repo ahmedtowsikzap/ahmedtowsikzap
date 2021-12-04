@@ -1,11 +1,11 @@
-### Hey there, This is Ahmed Towsik || [My Portfolio][https://ahmedtowsikzap.netlify.app/]
+### Hey there, This is Ahmed Towsik || [Portfolio/ Wanna Know more about me?? >>>>>>>] [https://ahmedtowsikzap.netlify.app/]
 
 ## I'm a Programmer, Developer, Gamer, Cyber security
 
-- 🔭 I found programming as my passion.
-- 🌱 I’m a technophile who loves to explore new & hot technologies and other stuff.
-- 🥅 2022 Goals: Create as much projects as I can.
-- ⚡ Fun Stuffs That I love: I love to play css battle and play games.
+- 🔭 I found programming as my first interest and passion to begin with & also a carrear based on.
+- 🌱 I’m a technocrat who loves to explore new & hot technologies and other stuff.
+- 🥅 2022 Objective: Create as much projects as I can.
+- ⚡ Fun Stuffs That I love: Play css battle with friends and playing competetive games.
 
 ### Connect with me:
 

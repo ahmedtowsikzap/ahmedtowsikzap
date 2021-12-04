@@ -1,6 +1,6 @@
 ### Hey there, This is Ahmed Towsik || [Portfolio/ Wanna Know more about me?? >>>>>>>] [https://ahmedtowsikzap.netlify.app/]
 
-## I'm a Programmer, Developer, Gamer, Cyber security
+## I'm a Programmer, Full-Stack Developer, Gamer, interest in Cyber security
 
 - 🔭 I found programming as my first interest and passion to begin with & also a carrear based on.
 - 🌱 I’m a technocrat who loves to explore new & hot technologies and other stuff.

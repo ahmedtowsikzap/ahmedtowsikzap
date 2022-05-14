@@ -1,11 +1,15 @@
-### Hey there, This is Ahmed Towsik || [Portfolio/ Wanna Know more about me at >] [https://towsikzap.web.app/]
+### Hey there, I'm Towsik <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-## I'm a Programmer, Full-Stack Developer, Gamer, interest in Cyber security
+
+## I'm Ahmed Towsik a Programmer, Full-Stack Developer, Gamer, also have interest in Cyber security.
+:mailbox: Reach me out!
+ [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-towsik/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/_bruhh.stop/) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ahmedtowsikzap@gmail.com)
 
 - 🔭 I found programming as my first interest and passion to begin with & also a carrear based on.
 - 🌱 I’m a technocrat who loves to explore new & hot technologies and other stuff.
 - 🥅 2022 Objective: Create as much projects as I can.
-- ⚡ Fun Stuffs That I love: Play css battle with friends and playing competetive games.
+- ⚡ Fun Stuffs That I love: playing competetive games & travel.
+- 📫 How to reach me: ahmedtowsikzap@gmail.com.
 
 ### Connect with me:
 

@@ -4,7 +4,7 @@
 ## I'm Ahmed Towsik a Programmer, Full-Stack Developer, Gamer, also have interest in Cyber security.
 :mailbox: Reach me out!
 
- [![Linkedin Badge](https://img.shields.io/badge/-AhmedTowsik-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-towsik/) [![Mail Badge](https://img.shields.io/badge/-@Towsik-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/_bruhh.stop/) [![Mail Badge](https://img.shields.io/badge/-towsik-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ahmedtowsikzap@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/-AhmedTowsik-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-towsik/)[Facebook Badge](https://img.shields.io/badge/-Ahmed-0e76a8?style=flat&labelColor=0e76a8&logo=facebook&logoColor=white)](https://www.linkedin.com/in/ahmed-towsik/)  [![Mail Badge](https://img.shields.io/badge/-@Towsik-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/_bruhh.stop/) [![Mail Badge](https://img.shields.io/badge/-towsik-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ahmedtowsikzap@gmail.com)
 
 - 🔭 I found programming as my first interest and passion to begin with & also a carrear based on.
 - 🌱 I’m a technocrat who loves to explore new & hot technologies and other stuff.

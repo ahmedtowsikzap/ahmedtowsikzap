@@ -37,6 +37,9 @@
 <img align="left"  alt="Terminal"  width="35px" src="https://miro.medium.com/max/632/1*5QD8DKhOjRe-gcYjozlLNQ.png"/>
 
 
+
+
+
 #### Buisness
 - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
-- :email: ipenywis@gmail.com
+- :email: ahmedtowsikzap@gmail.com

@@ -13,7 +13,7 @@
 - ⚡ Fun Stuffs That I love: playing competetive games & travel.
 - 📫 How to reach me: ahmedtowsikzap@gmail.com
 <br>
-<br>
+
 ## My Portfolio: 
 https://towsikzap.web.app
 <br>

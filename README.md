@@ -31,7 +31,6 @@ https://towsikzap.web.app
 <br>
 
 
-<img  align="left"  alt="Visual Studio Code"  width="32px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"  />
 
 <img  align="left"  alt="HTML5"  width="32px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"  />
 
@@ -44,6 +43,7 @@ https://towsikzap.web.app
 <img align="left"  alt="Terminal"  width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png"/>
 <img align="left"  alt="Terminal"  width="32px" src="https://camo.githubusercontent.com/a664defdd5c2ec93a3fbfb51e0f2aaafa5dc57bf1e13aa47456ced037b3cebe8/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67"/>
 <img align="left"  alt="Terminal"  width="32px" src="https://miro.medium.com/max/632/1*5QD8DKhOjRe-gcYjozlLNQ.png"/>
+<img  align="left"  alt="Visual Studio Code"  width="32px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"  />
 
 <br>
 <br>

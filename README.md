@@ -46,4 +46,14 @@
 
 #### Profile Visits
 
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=ahmedtowsikzap.ahmedtowsikzap&left_color=gray&right_color=blue)
+
+
+
+
+
+#### GitHub Stats
+
+
+[![Towsk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedtowsikzap&count_private=true&theme=tokyonight&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)

@@ -61,4 +61,4 @@ https://towsikzap.web.app
 #### Profile Visits:
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=ahmedtowsikzap.ahmedtowsikzap&left_color=gray&right_color=blue)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=ahmedtowsikzap.ahmedtowsikzap&left_color=green&right_color=blue)

@@ -39,14 +39,15 @@ https://towsikzap.web.app
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtowsikzap&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
+<br>
 
 
-#### Profile Visits:
 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=ahmedtowsikzap.ahmedtowsikzap&left_color=gray&right_color=blue)
-
-
+# 📊 GitHub Stats :
+![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ahmedtowsikzap&hide_border=true&theme=redical)
+<br>
+<br>
 
 
 
@@ -55,3 +56,9 @@ https://towsikzap.web.app
 
 
 [![Towsk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedtowsikzap&show_icons=true&count_private=true&theme=gruvbox&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+
+
+#### Profile Visits:
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=ahmedtowsikzap.ahmedtowsikzap&left_color=gray&right_color=blue)

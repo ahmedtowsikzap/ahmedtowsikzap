@@ -36,8 +36,7 @@ https://towsikzap.web.app
  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23F05033.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<br>
-<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtowsikzap&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 

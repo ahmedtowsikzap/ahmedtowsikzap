@@ -7,7 +7,7 @@
 
  [![Linkedin Badge](https://img.shields.io/badge/-Ahmed_Towsik-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-towsik/)  [![Facebook Badge](https://img.shields.io/badge/-Ahmedzap-0e78c9?style=flat&labelColor=1e76a8&logo=facebook&logoColor=white)](https://www.facebook.com/ahmed.towsik.7/)  [![Mail Badge](https://img.shields.io/badge/-@Towsik-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/_bruhh.stop/) [![Mail Badge](https://img.shields.io/badge/-towsik-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ahmedtowsikzap@gmail.com)
 
-- 🔭 I found programming as my first interest and passion to begin with & also a carrear based on.
+- 🔭 I found programming as my first interest and passion to begin with & also a carrear to start on.
 - 🌱 I’m a technocrat who loves to explore new & hot technologies and other stuff.
 - 🥅 2022 Objective: Create as much projects as I can.
 - ⚡ Fun Stuffs That I love: playing competetive games & travel.

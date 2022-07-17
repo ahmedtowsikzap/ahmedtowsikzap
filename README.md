@@ -10,7 +10,7 @@
 - 📫 How to reach me: ahmedtowsikzap@gmail.com
 <br>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=ahmedtowsikzap.ahmedtowsikzap&left_color=green&right_color=blue)
+![Profile Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ahmedtowsikzap)
 <br>
 
 # My Portfolio: 

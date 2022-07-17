@@ -12,9 +12,6 @@
 - 📫 How to reach me: ahmedtowsikzap@gmail.com
 <br>
 
-#### Profile Visits:
-
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=ahmedtowsikzap.ahmedtowsikzap&left_color=green&right_color=blue)
 <br>
 

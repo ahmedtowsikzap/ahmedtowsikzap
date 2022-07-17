@@ -14,6 +14,12 @@
 - 📫 How to reach me: ahmedtowsikzap@gmail.com
 <br>
 
+#### Profile Visits:
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=ahmedtowsikzap.ahmedtowsikzap&left_color=green&right_color=blue)
+<br>
+
 # My Portfolio: 
 https://towsikzap.web.app
 <br>
@@ -82,9 +88,3 @@ https://towsikzap.web.app
 
 
 [![Towsk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedtowsikzap&show_icons=true&count_private=true&theme=gruvbox&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
-
-
-#### Profile Visits:
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=ahmedtowsikzap.ahmedtowsikzap&left_color=green&right_color=blue)

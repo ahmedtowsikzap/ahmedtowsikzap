@@ -66,11 +66,9 @@ https://towsikzap.web.app
 <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtowsikzap&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <br>
-<br>
 
 
 ### GitHub Stats ||
-<br>
 
 
 [![Towsk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedtowsikzap&show_icons=true&count_private=true&theme=gruvbox&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)

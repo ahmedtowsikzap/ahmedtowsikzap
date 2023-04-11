@@ -69,14 +69,6 @@ https://towsikzap.web.app
 <br>
 
 
-
-# 📊 GitHub Stats :
-![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ahmedtowsikzap&hide_border=true&theme=redical)
-<br>
-<br>
-
-
-
 ### GitHub Stats ||
 <br>
 

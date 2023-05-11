@@ -71,5 +71,5 @@ https://towsikzap.web.app
 
 
 [![Towsk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedtowsikzap&show_icons=true&count_private=true&theme=gruvbox&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"><img width="460" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedtowsikzap" alt="ahmed"/> </p>
 
-<p align="center"><img src="https://gpvc.arturio.dev/ahmedtowsikzap" alt="ahmed"/> </p> > 

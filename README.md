@@ -1,11 +1,11 @@
 ![](https://i.ibb.co/31FRzJD/latest.png)
 
-<h1 align="center">Greetings!<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hey there!"></h1>
+<h1 align="center">Hey Greetings!<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="29px" alt="hey there!"></h1>
 <h3 align="center">I'm Ahmed Towsik a Programmer, Full-Stack Developer intrested in Cyber Security.</h3>
 
 
 - 🔭 I found programming as my first interest and passion to begin with & also a carrer to start on.
-- 🌱 I’m a technocrat who loves to explore new & hot technologies and other stuff.
+- 🌱 A Technocrat who loves to explore new & hot technologies and other stuff.
 - 🥅 2023 Objective: Create as much projects as I can.
 - ⚡ Fun Stuffs That I love: playing competetive games & travel.
 <br>
@@ -18,7 +18,7 @@ https://towsikzap.web.app
 <br>
 <br>
 
-## :mailbox: Reach me out!
+## :mailbox: Hit me up!
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ahmed.towsik.7/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_bruhh.stop/)
@@ -71,5 +71,5 @@ https://towsikzap.web.app
 
 
 [![Towsk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedtowsikzap&show_icons=true&count_private=true&theme=gruvbox&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
-<p align="left"><img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedtowsikzap" alt="ahmed"/> </p>
+<p align="left"><img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedtowsikzap&theme=dark" alt="ahmed"/> </p>
 

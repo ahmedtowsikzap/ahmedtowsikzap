@@ -26,14 +26,14 @@ https://towsikzap.web.app
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedtowsikzap)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedtowsikzap@gmail.com)
 
-# Top Technologies
+# Top Techs
 <br>
 
 [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![MongoDbBBadge](https://img.shields.io/badge/-MongoDB-e535b?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3C873A)](#)
 <br>
 <br>
 
-## 💻 Languages and Tools:
+## 💻 Languages & Tools:
 
 [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/coderboy-raiyan)
 [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/coderboy-raiyan)
@@ -71,5 +71,5 @@ https://towsikzap.web.app
 
 
 [![Towsk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedtowsikzap&show_icons=true&count_private=true&theme=gruvbox&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
-<p align="center"><img width="460" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedtowsikzap" alt="ahmed"/> </p>
+<p align="left"><img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedtowsikzap" alt="ahmed"/> </p>
 

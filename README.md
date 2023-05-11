@@ -67,7 +67,7 @@ https://towsikzap.web.app
 <br>
 
 
-### GitHub Stats ||
+<h3 align="left">🔥   My Stats :</h3>
 
 
 [![Towsk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedtowsikzap&show_icons=true&count_private=true&theme=gruvbox&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,14 +1,13 @@
 ![](https://i.ibb.co/31FRzJD/latest.png)
 
-<h1 align="center">Greetings! I'm Towsik <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
+<h1 align="center">Greetings!<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hey there!"></h1>
 <h3 align="center">I'm Ahmed Towsik a Programmer, Full-Stack Developer intrested in Cyber Security.</h3>
 
 
 - 🔭 I found programming as my first interest and passion to begin with & also a carrer to start on.
 - 🌱 I’m a technocrat who loves to explore new & hot technologies and other stuff.
-- 🥅 2022 Objective: Create as much projects as I can.
+- 🥅 2023 Objective: Create as much projects as I can.
 - ⚡ Fun Stuffs That I love: playing competetive games & travel.
-- 📫 How to reach me: ahmedtowsikzap@gmail.com
 <br>
 
 ![Profile Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ahmedtowsikzap)
@@ -72,3 +71,5 @@ https://towsikzap.web.app
 
 
 [![Towsk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedtowsikzap&show_icons=true&count_private=true&theme=gruvbox&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center"><img src="https://gpvc.arturio.dev/ahmedtowsikzap" alt="ahmed"/> </p> > 

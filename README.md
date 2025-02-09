@@ -6,7 +6,7 @@
 
 - 🔭 I found programming as my first interest and passion to begin with & also a carrer to start on.
 - 🌱 A Technocrat who loves to explore new & hot technologies and other stuff.
-- 🥅 2023 Objective: Create as much projects as I can.
+- 🥅 2025 Objective: Create as much projects as I can.
 - ⚡ Fun Stuffs That I love: playing competetive games & travel.
 <br>
 
